@@ -3931,11 +3931,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter/Tryitter.WebApi.csproj",
+      "projectUniqueName": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter/Tryitter.WebApi.csproj",
       "projectName": "Tryitter.WebApi",
-      "projectPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter/Tryitter.WebApi.csproj",
+      "projectPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter/Tryitter.WebApi.csproj",
       "packagesPath": "/home/jorge/.nuget/packages/",
-      "outputPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter/obj/",
+      "outputPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jorge/.nuget/NuGet/NuGet.Config"
@@ -3950,11 +3950,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Application/Tryitter.Application.csproj": {
-              "projectPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Application/Tryitter.Application.csproj"
+            "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter.Application/Tryitter.Application.csproj": {
+              "projectPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter.Application/Tryitter.Application.csproj"
             },
-            "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/Tryitter.Infra.csproj": {
-              "projectPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/Tryitter.Infra.csproj"
+            "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter.Infra/Tryitter.Infra.csproj": {
+              "projectPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter.Infra/Tryitter.Infra.csproj"
             }
           }
         }

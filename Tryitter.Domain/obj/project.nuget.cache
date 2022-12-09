@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HO8NpBz44Y2Wu9i6BZ7Rxvc3pp0Nu4QmJ8BorAYHZCvEpJi4dxVr23w00fX3mJkMG7hCpm7f48Piyxtt1EeBNQ==",
+  "dgSpecHash": "GFhkUeo5F7oet6lu47pFVn3RLY/tMloiusNXJ5Fm5LsNv9ZTRBwEmAmdrqylMQAV1BTqvZ6JyDp8yKS+C2sUjQ==",
   "success": true,
-  "projectFilePath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Domain/Tryitter.Domain.csproj",
+  "projectFilePath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter.Domain/Tryitter.Domain.csproj",
   "expectedPackageFiles": [
     "/home/jorge/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512"
   ],

@@ -1738,11 +1738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Application/Tryitter.Application.csproj",
+      "projectUniqueName": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter.Application/Tryitter.Application.csproj",
       "projectName": "Tryitter.Application",
-      "projectPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Application/Tryitter.Application.csproj",
+      "projectPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter.Application/Tryitter.Application.csproj",
       "packagesPath": "/home/jorge/.nuget/packages/",
-      "outputPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Application/obj/",
+      "outputPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jorge/.nuget/NuGet/NuGet.Config"
@@ -1757,8 +1757,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Domain/Tryitter.Domain.csproj": {
-              "projectPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Domain/Tryitter.Domain.csproj"
+            "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter.Domain/Tryitter.Domain.csproj": {
+              "projectPath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter.Domain/Tryitter.Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YIT/XV5xd67Toew+ZNXiPGnnUgEStM6jrOJimAs/ntplpbIN83KOoGop4YG6rt+rD4P6bnaJw816nASUwXNAuQ==",
+  "dgSpecHash": "3Se8VLaGAZj42Zzk1Zh5aiE1u1mHjf/IHjwny2uwrqt7AS1txiDLgcr580leVIlDMF2xVmFdYpyoaG/qQzc4qA==",
   "success": true,
-  "projectFilePath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Unity.Test/Unit.Test.csproj",
+  "projectFilePath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Unity.Test/Unit.Test.csproj",
   "expectedPackageFiles": [
     "/home/jorge/.nuget/packages/autobogus/2.13.1/autobogus.2.13.1.nupkg.sha512",
     "/home/jorge/.nuget/packages/bogus/31.0.3/bogus.31.0.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mmykaJXf/Lv+6OdwKcHDwT6/W03o0z2XRHRC9rk9vhLfoSVbD0LSgzsVOnx0ppesIjxTE2l0JKATMUU6LtlP6Q==",
+  "dgSpecHash": "TiXSqO4AXMs/SYSXXnaLk9sL23JKXQVcjzNXfMLz3naa3tYZFAFmm5BwfngNE5ioohDqjeD1m/kc0u4/Cyx9uw==",
   "success": true,
-  "projectFilePath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Application/Tryitter.Application.csproj",
+  "projectFilePath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter.Application/Tryitter.Application.csproj",
   "expectedPackageFiles": [
     "/home/jorge/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512",
     "/home/jorge/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

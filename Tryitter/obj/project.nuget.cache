@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BDaDCvKxcXjRT0DyW+thETybx/EzSiR0r6bryaV4Ostbxq2jlpcuaCcxkEzBdfzCrfEfITsegIwqcacLA49e2w==",
+  "dgSpecHash": "7aaRbQzbkXXhqjMvYGbZ+uN/JL6PO0pd1i++QNttak4o1qpga5rZQr0t7VcwgDpE/yEP8xmUbkj8mJgJ7WSTCw==",
   "success": true,
-  "projectFilePath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter/Tryitter.WebApi.csproj",
+  "projectFilePath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/Tryitter/Tryitter.WebApi.csproj",
   "expectedPackageFiles": [
     "/home/jorge/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/home/jorge/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
