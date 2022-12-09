@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HO8NpBz44Y2Wu9i6BZ7Rxvc3pp0Nu4QmJ8BorAYHZCvEpJi4dxVr23w00fX3mJkMG7hCpm7f48Piyxtt1EeBNQ==",
+  "success": true,
+  "projectFilePath": "/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Domain/Tryitter.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/jorge/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

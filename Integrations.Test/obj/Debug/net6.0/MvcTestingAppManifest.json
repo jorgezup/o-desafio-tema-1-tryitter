@@ -1,0 +1,6 @@
+{
+  "Tryitter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/jorge\/Documents\/Dev\/o-desafio-tema-1-tryitter\/src\/Tryitter.Application",
+  "Tryitter.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/jorge\/Documents\/Dev\/o-desafio-tema-1-tryitter\/src\/Tryitter.Domain",
+  "Tryitter.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/jorge\/Documents\/Dev\/o-desafio-tema-1-tryitter\/src\/Tryitter.Infra",
+  "Tryitter.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/jorge\/Documents\/Dev\/o-desafio-tema-1-tryitter\/src\/Tryitter"
+}

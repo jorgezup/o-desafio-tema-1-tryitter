@@ -1,0 +1,15 @@
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/bin/Debug/net6.0/Tryitter.Infra.deps.json
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/bin/Debug/net6.0/Tryitter.Infra.dll
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/bin/Debug/net6.0/Tryitter.Infra.pdb
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/bin/Debug/net6.0/Tryitter.Domain.dll
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/bin/Debug/net6.0/Tryitter.Domain.pdb
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/obj/Debug/net6.0/Tryitter.Infra.csproj.AssemblyReference.cache
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/obj/Debug/net6.0/Tryitter.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/obj/Debug/net6.0/Tryitter.Infra.AssemblyInfoInputs.cache
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/obj/Debug/net6.0/Tryitter.Infra.AssemblyInfo.cs
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/obj/Debug/net6.0/Tryitter.Infra.csproj.CoreCompileInputs.cache
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/obj/Debug/net6.0/Tryitter.Infra.csproj.CopyComplete
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/obj/Debug/net6.0/Tryitter.Infra.dll
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/obj/Debug/net6.0/refint/Tryitter.Infra.dll
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/obj/Debug/net6.0/Tryitter.Infra.pdb
+/home/jorge/Documents/Dev/o-desafio-tema-1-tryitter/src/Tryitter.Infra/obj/Debug/net6.0/ref/Tryitter.Infra.dll
